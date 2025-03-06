@@ -5,15 +5,15 @@
     "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Emily Mingus",
+        "url": {}
       }
     ],
     "date": "2025-03-05",
     "categories": [],
     "contents": "\n\n\n\n",
     "preview": {},
-    "last_modified": "2025-03-05T16:11:33-08:00",
-    "input_file": {}
+    "last_modified": "2025-03-05T16:17:29-08:00",
+    "input_file": "welcome.knit.md"
   }
 ]
